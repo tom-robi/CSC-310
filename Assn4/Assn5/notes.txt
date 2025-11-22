@@ -1,0 +1,16 @@
+https://www.geeksforgeeks.org/introduction-to-trie-data-structure-and-algorithm-tutorials/
+https://www.geeksforgeeks.org/spell-checker-using-trie/
+
+Modify this code to instead insert words into the trie via a text file,
+ and also get the string key from user input. The trie array to store 
+ addresses should also only be reflected for lowercase characters.
+
+awk '!(/[A-Z].*[A-Z]/)' en-custom.wl > aspell_dict_modified.txt
+awk '!/'\''/' aspell_dict_modified.txt > aspell_dict_modified.txt
+awk '{print tolower($0)}' aspell_dict_modified.txt > aspell_dict_modified.txt
+awk 'length($0) > 1' aspell_dict_modified.txt > aspell_dict_modified.txt
+
+strings to test:
+a
+interes
+sandbox

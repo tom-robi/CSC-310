@@ -1,0 +1,26 @@
+kd-tree with 2 dimensions
+matplotlib.pyplot for visualizing the nearest point function at work
+
+init
+creation of a node class, where each point is a coordinate in k-dimensional space
+axis determines splitting dimension, references the left and right children
+
+build_kdtree
+recursively builds the kd-tree
+k is set to however many dimensions the first point has
+axis is calculated depth modulo k
+display geeks4geeks diagram
+recursively builds left and right subrees before and after median
+
+distance_squared
+calculates distance between points
+
+closest_point
+Travels tree recursively, keeping track of best/closest point
+until it reaches the end of the tree.
+Updates if a closer point is found.
+
+plot_kdtree
+recursively plots structure of kdtree, with horizontal or vertical lines
+
+finally, the points are plotted

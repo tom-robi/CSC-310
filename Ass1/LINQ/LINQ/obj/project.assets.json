@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/home/thomas/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Ass1/LINQ/LINQ/LINQ.csproj",
+      "projectName": "LINQ",
+      "projectPath": "/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Ass1/LINQ/LINQ/LINQ.csproj",
+      "packagesPath": "/home/thomas/.nuget/packages/",
+      "outputPath": "/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Ass1/LINQ/LINQ/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/thomas/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/thomas/.dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Assn3/cmake/build/CMakeFiles/hello.dir
+/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Assn3/cmake/build/CMakeFiles/edit_cache.dir
+/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Assn3/cmake/build/CMakeFiles/rebuild_cache.dir
+/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Assn3/cmake/build/blah/CMakeFiles/blah.dir
+/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Assn3/cmake/build/blah/CMakeFiles/edit_cache.dir
+/media/thomas/Seagate Portable Drive/DSU/Spring 2024/CSC-310/Assn3/cmake/build/blah/CMakeFiles/rebuild_cache.dir
